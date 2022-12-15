@@ -26,3 +26,5 @@ https://youtu.be/Xol-GJ49ZnQ
  - If you want to load another Lua file, use UI of left top side.
  - x64\Assets folder is already set to path so please only put the filename in the input box.
  - The way to code Lua script is in "LuaCommand_Description" text file.
+
+ - Please use the filename list in the "Sample File List.txt" for testing
